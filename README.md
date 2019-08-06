@@ -78,3 +78,8 @@ Once you finish setting up the workspace, try to run the demo as follows:
    $ virtuoso &
    ```
 
+3. run the following script to generate a trial layout.
+
+   ```
+   run laygo/labs/lab1_a_baselayoutgenerator_export.py
+   ```
