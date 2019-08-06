@@ -1,5 +1,5 @@
 # laygo_cds_ff_mpt
-LAYGO example setup for cds_ff_mpt (cadence generic PDK for finfet and multi-patterned technology)
+LAYGO example setup for cds_ff_mpt (cadence generic PDK for finfet and multi-patterned technology). Forked from https://github.com/ucb-art/BAG2_cds_ff_mpt.
 
 ## Python setup
 
